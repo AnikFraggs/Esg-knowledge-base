@@ -1,0 +1,50 @@
+# Company watchlist - add real report URLs here
+# Menu option 1 will list these as a dropdown
+
+companies:
+  - name: "Ultratech Cement"
+    sector: "cement"
+    # Add real annual report / BRSR PDF / XBRL URLs here
+    urls:
+      - "https://example.com/ultratech_fy24_annual_report.pdf"
+      - "https://example.com/ultratech_fy24_brsr.pdf"
+
+  - name: "Shree Cement"
+    sector: "cement"
+    urls:
+      - "https://example.com/shree_fy24_annual_report.pdf"
+
+  - name: "Dalmia Bharat"
+    sector: "cement"
+    urls:
+      - "https://example.com/dalmia_fy24_annual_report.pdf"
+
+  - name: "Godrej Properties"
+    sector: "real_estate"
+    urls:
+      - "https://example.com/godrej_fy24_annual_report.pdf"
+
+  - name: "DLF"
+    sector: "real_estate"
+    urls:
+      - "https://example.com/dlf_fy24_annual_report.pdf"
+
+  - name: "Prestige Estates"
+    sector: "real_estate"
+    urls:
+      - "https://example.com/prestige_fy24_annual_report.pdf"
+
+  - name: "Aarti Industries"
+    sector: "specialty_chemicals"
+    urls:
+      - "https://example.com/aarti_fy24_annual_report.pdf"
+
+  - name: "Navin Fluorine"
+    sector: "specialty_chemicals"
+    urls:
+      - "https://example.com/navin_fy24_annual_report.pdf"
+
+  - name: "SRF"
+    sector: "specialty_chemicals"
+    urls:
+      - "https://example.com/srf_fy24_annual_report.pdf"
